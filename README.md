@@ -1,5 +1,7 @@
 # flutter_practice
 
+https://api.travis-ci.org/ivanatu/flutter_practice.svg?branch=master
+
 A new Flutter application.
 
 ## Getting Started

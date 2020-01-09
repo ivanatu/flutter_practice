@@ -1,4 +1,4 @@
-os: linux
+language: node_js
 
 # The Ubuntu Trusty release on Travis is known to
 # have oraclejdk8 available. For some reason, we couldn't
@@ -8,7 +8,7 @@ jdk: oraclejdk8
 
 # We set language to Node.js (JavaScript) for the sake
 # of making creating utility scripts later on easier.
-language: dart
+
 node_js:
   - "12"
 
